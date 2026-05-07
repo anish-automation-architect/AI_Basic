@@ -1,0 +1,8 @@
+{
+  "id": "BUG-3302",
+  "title": "Login button does nothing on mobile Safari",
+  "severity": "high",
+  "steps": "open site on iPhone, tap Login",
+  "expected": "go to dashboard",
+  "actual": "nothing happens"
+}

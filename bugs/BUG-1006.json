@@ -1,0 +1,9 @@
+{
+  "id": "BUG-1006",
+  "title": "Login button fails to appear in the home page for first launch and after refresh it appear on home page",
+  "severity": "high",
+  "steps": "1. Launch the application for the first time. 2. Observe that the login button is not visible on the home page. 3. Refresh the home page. 4. Observe that the login button is now visible on the home page.",
+  "expected": "The login button should be visible on the home page for the first launch.",
+  "actual": "The login button is not visible on the home page for the first launch, but it appears after refreshing the home page.",
+  "created_at": "2026-05-08 02:21:57"
+}

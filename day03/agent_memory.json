@@ -1,0 +1,48 @@
+{
+  "facts": [
+    {
+      "fact": "User is from India",
+      "saved_at": "2026-05-08 02:46:48"
+    },
+    {
+      "fact": "User is looking for a job in Bangalore",
+      "saved_at": "2026-05-08 02:46:48"
+    },
+    {
+      "fact": "User's name is Anish",
+      "saved_at": "2026-05-08 02:48:30"
+    },
+    {
+      "fact": "User is looking for a job",
+      "saved_at": "2026-05-08 02:49:07"
+    },
+    {
+      "fact": "User is in Bangalore",
+      "saved_at": "2026-05-08 02:49:07"
+    },
+    {
+      "fact": "User is from Bangalore",
+      "saved_at": "2026-05-08 02:51:05"
+    },
+    {
+      "fact": "User has previous job experience in Bangalore",
+      "saved_at": "2026-05-08 02:52:19"
+    },
+    {
+      "fact": "User is an Automation Lead",
+      "saved_at": "2026-05-08 02:52:59"
+    },
+    {
+      "fact": "User has experience as an Automation Lead",
+      "saved_at": "2026-05-08 02:55:02"
+    },
+    {
+      "fact": "User is looking for a job as an Automation Lead",
+      "saved_at": "2026-05-08 02:56:33"
+    },
+    {
+      "fact": "User is interested in IT and software industry jobs",
+      "saved_at": "2026-05-08 02:56:33"
+    }
+  ]
+}
